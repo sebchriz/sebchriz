@@ -1,10 +1,19 @@
-![Image]("https://drive.google.com/file/d/1jFfi7Ui6I7QBLTF4UzNFQtpR9ovwEX7Z/view?usp=sharing")
+![Image](https://www.mytechlogy.com/upload/by_users/RiteshPatil/0117031114585301a35bbbbe6.jpg)
+
+
 👋 Hi, I’m **Sebin James**
-👀 I’m interested in Data Science...
-🌱 I’m currently learning MSc. Data Science @ Loyola College,Chennai  ...
-💞️ I’m looking to collaborate on internships related to Data Science...
+
+👀 I’m interested in Data Science
+
+🌱 I’m currently learning MSc. Data Science @ Loyola College,Chennai 
+
+💞️ I’m looking to collaborate on internships related to Data Science 
+
 📫 How to reach me my email is sebchrizjy33@gmail.com
+
+
 📱 Contact me @ 9605227877...
+
 ## MOTTO : Conquer The World with Love ❤
 
 <!---
