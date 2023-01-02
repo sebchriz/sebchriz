@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Science Professional with Key understanding of the domain and necessary skills to quantify the value of my work.<br>Industries I have worked :<br>📱 Telecom - 7 Months (ongoing)<br>👨‍⚕️Healthcare - 5 Months<br><br>Key Strengths<br>1. Technical - Python, SQL, Tableau, MS Excel<br>2. Domain Knowledge - Telecom, Healthcare<br>3. Soft Skills - Managing Client Calls, Key player in delivering Client requirements, Well versed in communicating in English, Preparing Artifacts (MoM, SoW)
+Data Science Professional with Key understanding of the domain and necessary skills to quantify the value of my work.<br>Industries I have worked :<br>📱 Telecom - 7 Months (ongoing)<br>👨‍⚕️Healthcare - 5 Months<br><br>**Key Strengths**<br>**Technical** - Python, SQL, Tableau, MS Excel<br>**Domain Knowledge** - Telecom, Healthcare<br>**Soft Skills** - Managing Client Calls, Key player in delivering Client requirements, Well versed in communicating in English, Preparing Artifacts (MoM, SoW)
 
 
 ## 🌐 Socials:
@@ -21,8 +21,6 @@ Data Science Professional with Key understanding of the domain and necessary ski
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SEBCHRIZ&icon=4&color=2)](https://visitcount.itsvg.in)
